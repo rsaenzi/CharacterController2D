@@ -1,4 +1,4 @@
-#CharacterController2D
+# CharacterController2D
 
 Proyecto tutorial sobre animación simple de personajes 2D en Unity usando spritesheets. Partimos desde una proyecto vacío hasta una mecánica básica de un sidescroller. Se repasan temas como Animation Clips, Animator Controllers y Character Controller.
 
