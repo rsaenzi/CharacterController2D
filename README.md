@@ -1,10 +1,6 @@
 # CharacterController2D
 
-Proyecto tutorial sobre animación simple de personajes 2D en Unity usando spritesheets. Partimos desde una proyecto vacío hasta una mecánica básica de un sidescroller. Se repasan temas como Animation Clips, Animator Controllers y Character Controller.
+Class material used to teach about 2D animation in Unity using spritesheets. Topics such as Animation Clips, Animator Controllers, and Character Controller are covered.
 
-Autor:
-* Rigoberto Sáenz Imbacuán
-* https://www.linkedin.com/in/rsaenzi/
-
-Copyright:
-Las imágenes usadas en el video son propiedad de Nintendo. Solo son usadas con fines educativos.
+* Author: Rigoberto Sáenz Imbacuán (https://www.linkedin.com/in/rsaenzi)
+* Copyright: Images used in this project are owned by Nintendo. They are only used for educational purposes.
